@@ -1,0 +1,51 @@
+[
+  {
+    "character_name": "Pikachu",
+    "topic": "Anime",
+    "character_image": "https://imgcdn.stablediffusionweb.com/2024/4/9/7a29f5fd-1407-41ad-acce-558d5e99e04a.jpg",
+    "powers": "Electric attacks",
+    "strength_level": "Medium"
+  },
+  {
+    "character_name": "Tweety",
+    "topic": "Cartoon",
+    "character_image": "https://cartooncharacters.ai/characters/tweety-bird/tweety-bird-profile.jpg",
+    "powers": "Agility, cleverness",
+    "strength_level": "Low"
+  },
+  {
+    "character_name": "Grey Matter",
+    "topic": "Ben 10",
+    "character_image": "https://i.pinimg.com/1200x/4a/cd/69/4acd69be8d476a60ed9e8daa813413e4.jpg",
+    "powers": "Genius intelligence",
+    "strength_level": "Low"
+  },
+  {
+    "character_name": "Chiaotzu",
+    "topic": "Dragon Ball",
+    "character_image": "https://genshinlab.com/wp-content/uploads/107-Chiaotzu-1080x1080-1.webp",
+    "powers": "Telekinesis",
+    "strength_level": "Medium"
+  },
+  {
+    "character_name": "Jade Chan",
+    "topic": "JCA",
+    "character_image": "https://i.pinimg.com/736x/ce/e7/16/cee7166127354bcf9c7a20c5560cdf84.jpg",
+    "powers": "Artifact magic",
+    "strength_level": "Low"
+  },
+  {
+    "character_name": "Baby Groot",
+    "topic": "Marvel",
+    "character_image": "https://i.pinimg.com/1200x/b4/e0/5b/b4e05b21357c77c900147ff073ac14f9.jpg",
+    "powers": "Regeneration, plant abilities",
+    "strength_level": "Medium"
+  },
+  {
+    "character_name": "Stitch",
+    "topic": "Disney",
+    "character_image": "https://i.pinimg.com/736x/e2/ce/c4/e2cec41a117c3afc4edabde48433d798.jpg",
+    "powers": "Super strength, agility",
+    "strength_level": "Medium"
+  }
+]

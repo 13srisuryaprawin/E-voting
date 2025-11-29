@@ -1,0 +1,57 @@
+.navbar{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.navbar-toggler {
+
+  background-color: white !important;
+}
+.footer{
+  
+   font-family:Arial, Helvetica, sans-serif;
+}
+html body{
+  background-color: #010713;
+  color: white;
+}
+.btn-primary {
+  background-color: #2b6a62;
+  border: none;
+  border-radius: 14px;
+  padding: 12px 0;
+  font-size: 17px;
+  font-weight: 600;
+  color: white;
+  transition: 0.3s;
+}
+
+.btn-primary:hover {
+  background-color: #42b3a4;
+  transform: translateY(-3px);
+  box-shadow: 0px 8px 20px rgba(66, 179, 164, 0.4);
+}
+
+.btn-primary:active {
+  transform: scale(0.97);
+}
+
+.navbar ul li button {
+  background: #2b6a62;      
+  color: white;
+  border: none;
+  padding: 8px 18px;
+  margin-left: 10px;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.25s ease;
+}
+
+.navbar ul li button:hover {
+  background: #42b3a4;
+  transform: translateY(-2px);
+}
+
+.navbar ul li button:active {
+  transform: scale(0.95);
+}

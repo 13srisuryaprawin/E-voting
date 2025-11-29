@@ -1,0 +1,51 @@
+[
+  {
+    "character_name": "Senku",
+    "topic": "Anime",
+    "character_image": "https://i.pinimg.com/736x/e9/08/ae/e908aeb22b5e770380652a8bf399fa4c.jpg",
+    "powers": "Genius science",
+    "strength_level": "Medium"
+  },
+  {
+    "character_name": "Jimmy Neutron",
+    "topic": "Cartoon",
+    "character_image": "https://i.pinimg.com/1200x/b2/0b/b5/b20bb5ddb1e1c554ca3b9e2fe1445923.jpg",
+    "powers": "Super-genius",
+    "strength_level": "Medium"
+  },
+  {
+    "character_name": "Max Tennyson",
+    "topic": "Ben 10",
+    "character_image": "https://i.pinimg.com/1200x/40/80/f9/4080f986a6e8af3e05ee791ee35c5c6d.jpg",
+    "powers": "Tech training",
+    "strength_level": "Medium"
+  },
+  {
+    "character_name": "Bulma",
+    "topic": "Dragon Ball",
+    "character_image": "https://i.pinimg.com/736x/68/55/b0/6855b0226bb38b2fcdaac96558866ec5.jpg",
+    "powers": "Inventor of advanced tech",
+    "strength_level": "Medium"
+  },
+  {
+    "character_name": "Captain Black",
+    "topic": "JCA",
+    "character_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfJr3E8DSA3ECEY2Okp8X3TlaDxgfZRQzGD8CHoMDzIan7U6z5t3vrfVotZ91zbpM7CU0&usqp=CAU",
+    "powers": "High-tech weapons",
+    "strength_level": "Medium"
+  },
+  {
+    "character_name": "Iron Man",
+    "topic": "Marvel",
+    "character_image": "https://i.pinimg.com/736x/eb/78/17/eb7817678bd074885b3b4bab43e2d4c2.jpg",
+    "powers": "Powered armor suit, genius",
+    "strength_level": "Very High"
+  },
+  {
+    "character_name": "Baymax",
+    "topic": "Disney",
+    "character_image": "https://i.pinimg.com/1200x/af/fb/60/affb60f8886244902c633f18e6912320.jpg",
+    "powers": "Medical robot armor",
+    "strength_level": "High"
+  }
+]

@@ -1,0 +1,48 @@
+.footer-title {
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.footer-text {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: #cccccc;
+}
+
+.footer-links li {
+  margin-bottom: 8px;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.footer-links li:hover {
+  color: #0d6efd; /* Bootstrap primary color */
+}
+
+.footer-social li {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.footer-social li:hover {
+  color: #0d6efd;
+}
+
+.footer-social svg {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.footer-bottom-links li {
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.footer-bottom-links li:hover {
+  color: #0d6efd;
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "character_name": "Luffy",
+    "topic": "Anime",
+    "character_image": "https://i.pinimg.com/736x/64/b0/5c/64b05cd8af237a1e6393afc211105f8c.jpg",
+    "powers": "Rubber body, Haki",
+    "strength_level": "High"
+  },
+  {
+    "character_name": "Leonardo",
+    "topic": "Cartoon",
+    "character_image": "https://i.pinimg.com/1200x/70/33/55/703355f0fb184eeba7dd2f63c510d52d.jpg",
+    "powers": "Ninjutsu, leadership",
+    "strength_level": "Medium"
+  },
+  {
+    "character_name": "Kevin Levin",
+    "topic": "Ben 10",
+    "character_image": "https://i.pinimg.com/736x/87/66/2a/87662ae5264ad5398bbe71754b29bde5.jpg",
+    "powers": "Energy absorption",
+    "strength_level": "High"
+  },
+  {
+    "character_name": "Piccolo",
+    "topic": "Dragon Ball",
+    "character_image": "https://m.media-amazon.com/images/M/MV5BYTA2MjM4OGItMzBjMy00ZWEzLWIwZTYtNDc0YmRlYjM5N2JjXkEyXkFqcGc@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+    "powers": "Regeneration, ki",
+    "strength_level": "High"
+  },
+{
+    "character_name": "Tarakudo",
+    "topic": "JCA",
+    "character_image": "https://i.pinimg.com/736x/a3/24/62/a32462c237aedbe0c9f62bbd17ce91e3.jpg",
+    "powers": "Shadow magic, Shadowkhan control",
+    "strength_level": "High"
+},
+  {
+    "character_name": "Captain America",
+    "topic": "Marvel",
+    "character_image": "https://i.pinimg.com/1200x/86/03/a5/8603a532aeada2e214c0962fe086a08a.jpg",
+    "powers": "Enhanced strength, shield mastery",
+    "strength_level": "High"
+  },
+  {
+    "character_name": "Simba",
+    "topic": "Disney",
+    "character_image": "https://i.pinimg.com/1200x/a4/3f/be/a43fbe5a5bd044065d8071ec44092ebf.jpg",
+    "powers": "Lion strength, leadership",
+    "strength_level": "High"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "character_name": "Dio Brando",
+    "topic": "Anime",
+    "character_image": "https://i.pinimg.com/736x/bb/bf/8c/bbbf8c2dfbd11890a3c6b0d12d348ee8.jpg",
+    "powers": "Vampire powers, time stop",
+    "strength_level": "High"
+  },
+  {
+    "character_name": "Joker",
+    "topic": "Cartoon",
+    "character_image": "https://choicefineart.com/cdn/shop/products/batman-the-animated-series-original-production-cel-joker-716816.jpg?v=1688078886",
+    "powers": "Insanity, toxic gadgets",
+    "strength_level": "Medium"
+  },
+  {
+    "character_name": "Vilgax",
+    "topic": "Ben 10",
+    "character_image": "https://i.pinimg.com/736x/4a/db/67/4adb6779bc929dab96bb3cac83f33e11.jpg",
+    "powers": "Alien strength, regeneration",
+    "strength_level": "High"
+  },
+  {
+    "character_name": "Frieza",
+    "topic": "Dragon Ball",
+    "character_image": "https://i.pinimg.com/736x/09/48/7f/09487fd7e9f856744b97ac5d944855a2.jpg",
+    "powers": "Transformations, death beams",
+    "strength_level": "Very High"
+  },
+  {
+    "character_name": "Shendu",
+    "topic": "JCA",
+    "character_image": "https://i.pinimg.com/736x/0d/2d/8d/0d2d8d807ba9586dae3bf4dcc71f9122.jpg",
+    "powers": "Demon sorcery, fire breath",
+    "strength_level": "High"
+  },
+  {
+    "character_name": "Thanos",
+    "topic": "Marvel",
+    "character_image": "https://i.pinimg.com/736x/05/c6/30/05c630ceb07c735ffd42a6f8397fee8c.jpg",
+    "powers": "Titan strength, Infinity Gauntlet",
+    "strength_level": "Extreme"
+  },
+  {
+    "character_name": "Maleficent",
+    "topic": "Disney",
+    "character_image": "https://hdmoviecodes.com/cdn/shop/products/Malefecient_9d93dab2-77ab-4405-8a54-2f5073f9671d_600x.jpg?v=1569946030",
+    "powers": "Dark magic, shape-shifting",
+    "strength_level": "High"
+  }
+]

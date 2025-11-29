@@ -1,0 +1,118 @@
+ [
+    {
+      "name": "Dravida Munnetra Kazhagam",
+      "abbreviation": "DMK",
+      "type": "State Party",
+      "leader": "M. K. Stalin",
+      "leader_image": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-08/25/full/1692962446-9072.jpg",
+      "flag_image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Dravida_Munnetra_Kazhagam_flag.PNG"
+    },
+    {
+      "name": "All India Anna Dravida Munnetra Kazhagam",
+      "abbreviation": "AIADMK",
+      "type": "State Party",
+      "leader": "Edappadi K. Palaniswami",
+      "leader_image": "https://images.indianexpress.com/2025/09/aiadmk-eps-1.jpg",
+      "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AIADMK_Flag.svg/2560px-AIADMK_Flag.svg.png"
+    },
+    {
+      "name": "Viduthalai Chiruthaigal Katchi",
+      "abbreviation": "VCK",
+      "type": "State Party",
+      "leader": "Thol. Thirumavalavan",
+      "leader_image": "https://th-i.thgim.com/public/incoming/81n7ks/article68956000.ece/alternates/FREE_1200/IMG_9712_17_9_2024_19_6__2_1_4RDEU013.jpg",
+      "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Viduthalai_Chiruthaigal_Katchi_banner.png/250px-Viduthalai_Chiruthaigal_Katchi_banner.png"
+    },
+    {
+      "name": "Naam Tamilar Katchi",
+      "abbreviation": "NTK",
+      "type": "State Party",
+      "leader": "Seeman",
+      "leader_image": "https://pbs.twimg.com/profile_images/1574676874646917120/-a-9BTPb_400x400.jpg",
+      "flag_image": "https://i.pinimg.com/originals/19/b0/4c/19b04cd9e652af61364ffa6a5e8aefa6.jpg"
+    },
+    {
+      "name": "Tamilaga Vettri Kazhagam",
+      "abbreviation": "TVK",
+      "type": "Regional Party",
+      "founded": "2024-02-02",
+      "founder": "Vijay",
+      "leader": "Vijay",
+      "leader_image": "https://i.pinimg.com/736x/a4/de/56/a4de56a18111182d1278c6d4909c657c.jpg",
+      "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Tamilaga_Vettri_Kazhagam_flag.svg/1200px-Tamilaga_Vettri_Kazhagam_flag.svg.png"
+    },
+    {
+      "name": "Desiya Murpokku Dravida Kazhagam",
+      "abbreviation": "DMDK",
+      "type": "Regional Party",
+      "leader": "Vijayakanth (Founder) / Party leadership committee",
+      "leader_image": "https://i.pinimg.com/originals/d4/45/0a/d4450a25d4ce7da0f2a90fb607a79ce3.jpg",
+      "flag_image": "https://www.crwflags.com/fotw/images/i/in%7Ddmdk4.gif"
+    },
+    {
+      "name": "Makkal Needhi Maiam",
+      "abbreviation": "MNM",
+      "type": "Regional Party",
+      "leader": "Kamal Haasan",
+      "leader_image": "https://mnm-web.s3.ap-south-1.amazonaws.com/downloads/Nammavar_18.jpg",
+      "flag_image": "https://static.toiimg.com/thumb/msid-63017103,width-1280,height-720,imgsize-86778,resizemode-72,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+    }
+    ,
+    {
+      "name": "Amma Makkal Munnetra Kazhagam",
+      "abbreviation": "AMMK",
+      "type": "Regional Party",
+      "leader": "T. T. V. Dhinakaran",
+      "leader_image": null,
+      "flag_image": null
+    },
+    {
+      "name": "Pattali Makkal Katchi",
+      "abbreviation": "PMK",
+      "type": "Regional Party",
+      "leader": "Anbumani Ramadoss",
+      "leader_image": null,
+      "flag_image": null
+    },
+    {
+      "name": "Hindu Makkal Katchi",
+      "abbreviation": "HMK",
+      "type": "Regional Party",
+      "leader": "Arjun Sampath",
+      "leader_image": null,
+      "flag_image": null
+    },
+    {
+      "name": "Communist Party of India",
+      "abbreviation": "CPI",
+      "type": "National Party",
+      "leader": "K. Balakrishnan (TN Secretary)",
+      "leader_image": null,
+      "flag_image": null
+    },
+    {
+      "name": "Communist Party of India (Marxist)",
+      "abbreviation": "CPI-M",
+      "type": "National Party",
+      "leader": "K. Balakrishnan (TN Secretary)",
+      "leader_image": null,
+      "flag_image": null
+    },
+    {
+      "name": "Indian National Congress",
+      "abbreviation": "INC",
+      "type": "National Party",
+      "leader": "K. Selvaperunthagai (TN Congress President)",
+      "leader_image": null,
+      "flag_image": null
+    },
+    {
+      "name": "Bharatiya Janata Party",
+      "abbreviation": "BJP",
+      "type": "National Party",
+      "leader": "K. Annamalai (TN State President)",
+      "leader_image": null,
+      "flag_image": null
+    }
+  ]
+

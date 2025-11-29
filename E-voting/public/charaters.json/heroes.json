@@ -1,0 +1,51 @@
+[
+  {
+    "character_name": "Naruto Uzumaki",
+    "topic": "Anime",
+    "character_image": "https://4kwallpapers.com/images/wallpapers/naruto-uzumaki-1920x1080-12191.jpg",
+    "powers": "Sage Mode, Nine-Tails Chakra",
+    "strength_level": "High"
+  },
+  {
+    "character_name": "Aang",
+    "topic": "Cartoon",
+    "character_image": "https://i.pinimg.com/736x/80/37/54/803754e7949cde4a2bbf41c567f1199a.jpg",
+    "powers": "Avatar State, Air/WATER/Earth/Fire bending",
+    "strength_level": "High"
+  },
+  {
+    "character_name": "Ben Tennyson",
+    "topic": "Ben 10",
+    "character_image": "https://i.pinimg.com/736x/b0/6b/56/b06b56ada59dfe59c115ab843bfd31b1.jpg",
+    "powers": "Omnitrix transformations",
+    "strength_level": "High"
+  },
+  {
+    "character_name": "Goku",
+    "topic": "Dragon Ball",
+    "character_image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2017%2F08%2F10-strongest-super-saiyan-transformations-dragon-ball-z-super-goku.jpg?w=960&cbr=1&q=90&fit=max",
+    "powers": "Super Saiyan forms, Ki mastery",
+    "strength_level": "Extreme"
+  },
+  {
+    "character_name": "Jackie Chan",
+    "topic": "JCA",
+    "character_image": "https://i.pinimg.com/1200x/6d/0e/b2/6d0eb2673613650f4e4c1412009a3e3c.jpg",
+    "powers": "Martial arts, talisman boosts",
+    "strength_level": "Medium"
+  },
+  {
+    "character_name": "Spider-Man",
+    "topic": "Marvel",
+    "character_image": "https://i.pinimg.com/736x/78/74/3a/78743ae8e05bc6e1d74069e9dc438b06.jpg",
+    "powers": "Spider-sense, wall-crawling, super agility",
+    "strength_level": "High"
+  },
+  {
+    "character_name": "Hercules",
+    "topic": "Disney",
+    "character_image": "https://i.pinimg.com/736x/91/69/de/9169de99ad3e142b66e654acf9c150a9.jpg",
+    "powers": "Godlike strength",
+    "strength_level": "High"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "character_name": "Saitama",
+    "topic": "Anime",
+    "character_image": "https://i.pinimg.com/1200x/3c/77/1d/3c771d28aab273fb17bd2876bc053baf.jpg",
+    "powers": "Unlimited strength",
+    "strength_level": "Extreme"
+  },
+  {
+    "character_name": "Hulk",
+    "topic": "Cartoon",
+    "character_image": "https://i.pinimg.com/1200x/f9/a2/0c/f9a20cf9978968995010ed784cb3e653.jpg",
+    "powers": "Unlimited strength",
+    "strength_level": "Very High"
+  },
+  {
+    "character_name": "Four Arms",
+    "topic": "Ben 10",
+    "character_image": "https://i.pinimg.com/1200x/05/cb/93/05cb93fe3e18c4bf42bf8f85e411b6ad.jpg",
+    "powers": "Super strength",
+    "strength_level": "High"
+  },
+  {
+    "character_name": "Vegeta",
+    "topic": "Dragon Ball",
+    "character_image": "https://i.pinimg.com/736x/55/15/e5/5515e554dd70cec63759a6dc4f91604c.jpg",
+    "powers": "Saiyan power, transformations",
+    "strength_level": "Very High"
+  },
+  {
+    "character_name": "Tohru",
+    "topic": "JCA",
+    "character_image": "https://i.pinimg.com/1200x/b2/71/7d/b2717d0baad7a5c45ca6e460635147ba.jpg",
+    "powers": "Superhuman strength",
+    "strength_level": "High"
+  },
+  {
+    "character_name": "Thor",
+    "topic": "Marvel",
+    "character_image": "https://i.pinimg.com/736x/de/74/09/de740975ccdb2bca56847fd169816175.jpg",
+    "powers": "God of Thunder, Mjolnir",
+    "strength_level": "Extreme"
+  },
+  {
+    "character_name": "Maui",
+    "topic": "Disney",
+    "character_image": "https://i.pinimg.com/736x/83/4f/f4/834ff4d6e1030234fc64dd5cfb2adc8c.jpg",
+    "powers": "Shapeshifting, strength",
+    "strength_level": "High"
+  }
+]

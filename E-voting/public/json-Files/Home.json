@@ -1,0 +1,21 @@
+[
+ {
+    "title": "1.Register",
+    "content":"Voters authenticate using verified IDs or credentials to ensure only eligible users can vote."
+ },{
+    "title":"2.Cast Vote",
+    "content":"Users log in securely and cast their vote through an easy and intuitive digital ballot interface."
+ },{
+    "title":"3.Secure Storage",
+    "content":"Votes are encrypted and stored securely in the system, ensuring complete anonymity and integrity."
+ },{
+    "title":"4.Verification",
+    "content":"The system verifies each ballot and prevents tampering, duplication, or unauthorized access."
+ },{
+    "title":"5.Counting",
+    "content":"Votes are counted automatically with high accuracy, eliminating human error or bias."
+ },{
+    "title":"6.Results",
+    "content":"Final election results are generated instantly, transparently, and securely for everyone to see."
+ }
+]

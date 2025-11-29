@@ -1,0 +1,52 @@
+[
+  {
+    "character_name": "Sakura",
+    "topic": "Anime",
+    "character_image": "https://i.pinimg.com/1200x/ab/f8/f7/abf8f7933d2f950d26f93cdce4b53f62.jpg",
+    "powers": "Magic cards",
+    "strength_level": "High"
+  },
+  {
+    "character_name": "Raven",
+    "topic": "Cartoon",
+    "character_image": "https://i.pinimg.com/736x/6e/9b/d4/6e9bd4c0705bbbd8a23986c5d51f225a.jpg",
+    "powers": "Dark magic",
+    "strength_level": "High"
+  },
+  {
+    "character_name": "Gwen Tennyson",
+    "topic": "Ben 10",
+    "character_image": "https://i.pinimg.com/736x/b8/c0/11/b8c011d3b927321da99c310a04907f6a.jpg",
+    "powers": "Mana and magic",
+    "strength_level": "High"
+  },
+  {
+    "character_name": "Supreme Kai",
+    "topic": "Dragon Ball",
+    "character_image": "https://i.pinimg.com/736x/19/5d/b1/195db1b3cae8416beb8811ebd741a72d.jpg",
+    "powers": "God magic",
+    "strength_level": "High"
+  },
+    {
+    "character_name": "Daolon Wong",
+    "topic": "JCA",
+    "character_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJeRTyVHkLDagx0Oig37vzKk7WK79X_yVNTN8TlG4pgBiBQGs8lPvKm2LhNEx0rFlhAVk&usqp=CAU",
+    "powers": "Dark chi magic, summoning, curses",
+    "strength_level": "High"
+}
+,
+  {
+    "character_name": "Doctor Strange",
+    "topic": "Marvel",
+    "character_image": "https://i.pinimg.com/736x/a9/d9/24/a9d9248816680c5cb391856bc729002a.jpg",
+    "powers": "Mystic arts",
+    "strength_level": "Very High"
+  },
+  {
+    "character_name": "Elsa",
+    "topic": "Disney",
+    "character_image": "https://i.pinimg.com/1200x/e7/4c/03/e74c035cd2c4dbab649105cb7a9a1010.jpg",
+    "powers": "Ice magic",
+    "strength_level": "High"
+  }
+]

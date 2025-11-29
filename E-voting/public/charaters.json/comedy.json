@@ -1,0 +1,51 @@
+[
+  {
+    "character_name": "Gintoki",
+    "topic": "Anime",
+    "character_image": "https://images8.alphacoders.com/137/thumb-1920-1374434.png",
+    "powers": "Swordsmanship, comedy",
+    "strength_level": "Medium"
+  },
+  {
+    "character_name": "SpongeBob",
+    "topic": "Cartoon",
+    "character_image": "https://thumbs.dreamstime.com/z/cartoon-character-resembling-yellow-sponge-square-body-large-eyes-tired-expression-wears-white-shirt-red-tie-brown-380412023.jpg",
+    "powers": "Cartoon physics",
+    "strength_level": "Medium"
+  },
+  {
+    "character_name": "Stinkfly",
+    "topic": "Ben 10",
+    "character_image": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/b77ad42a-4326-5180-b1ec-eca0aee86b13/37c62ba0-801e-5cbb-9817-26e7c0828519.jpg",
+    "powers": "Flight, slime attacks",
+    "strength_level": "Medium"
+  },
+  {
+    "character_name": "Master Roshi",
+    "topic": "Dragon Ball",
+    "character_image": "https://upload.wikimedia.org/wikipedia/en/e/e0/Kame-Sennin_First_Appearance.jpg",
+    "powers": "Martial arts",
+    "strength_level": "Medium"
+  },
+  {
+    "character_name": "Uncle",
+    "topic": "JCA",
+    "character_image": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/7f53dd3d-ee3a-5c49-b3fd-eebacf190aee/37c62ba0-801e-5cbb-9817-26e7c0828519.jpg",
+    "powers": "Magic & comedy",
+    "strength_level": "Medium"
+  },
+  {
+    "character_name": "Deadpool",
+    "topic": "Marvel",
+    "character_image": "https://townsquare.media/site/442/files/2024/07/attachment-deadpool-disneyland.jpg?w=1623&q=75",
+    "powers": "Healing factor, comedy chaos",
+    "strength_level": "High"
+  },
+  {
+    "character_name": "Genie",
+    "topic": "Disney",
+    "character_image": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/b57e7e68-eb04-5b9f-908b-428419e7cccc/37c62ba0-801e-5cbb-9817-26e7c0828519.jpg",
+    "powers": "Magic, humor",
+    "strength_level": "Very High"
+  }
+]
