@@ -75,6 +75,7 @@
   margin: 4px 0;
 }
 
+/* Button with neon teal theme */
 .btn-primary {
   background-color: #27f7d3;
   border: none;
@@ -82,7 +83,7 @@
   padding: 12px 0;
   font-size: 17px;
   font-weight: 600;
-  color: #000; 
+  color: #000;  /* Black text for contrast */
   width: 100%;
   transition: 0.3s;
 }

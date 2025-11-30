@@ -18,7 +18,7 @@ function ElectionResult() {
   const [characters, setCharacters] = useState([]);
 
   useEffect(() => {
-    axios.get("/public/charaters/strong.json").then((res) => {
+    axios.get("/charaters/strong.json").then((res) => {
       setCharacters(res.data);
     });
 

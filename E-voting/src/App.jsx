@@ -38,10 +38,7 @@ function App() {
         <Route path="/votingbooth/palladam" element={<Palladam />} />
         <Route path="/votingbooth/tiruppurnorth" element={<TiruppurNorth />} />
         <Route path="/votingbooth/tiruppursouth" element={<TiruppurSouth />} />
-        <Route
-          path="/votingbooth/udumalaipettai"
-          element={<Udumalaipettai />}
-        />
+        <Route path="/votingbooth/udumalaipettai" element={<Udumalaipettai />} />
       </Routes>
 
       <Footer />

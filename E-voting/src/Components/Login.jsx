@@ -45,10 +45,10 @@ function Login() {
         Booth: booth,
       };
 
-      // ---------- FIXED PART ----------
+  
       let loggedUsers = JSON.parse(localStorage.getItem("loggedUsers")) || [];
 
-      // ALWAYS ensure it's an array
+   
       if (!Array.isArray(loggedUsers)) {
         loggedUsers = [loggedUsers];
       }
@@ -56,7 +56,7 @@ function Login() {
       loggedUsers.push(loggedUserData);
 
       localStorage.setItem("loggedUsers", JSON.stringify(loggedUsers));
-      // --------------------------------
+  
 
       const boothRoutes = {
         Dharapuram: "/votingbooth/dharapuram",
