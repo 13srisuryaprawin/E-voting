@@ -21,22 +21,14 @@ function Navbar() {
         <li className="nav-item">
           <Link to={"/login"} className="nav-link text-white ps-5 pe-5">Login</Link>
         </li>
-        {/* <li className="nav-item">
-          <Link to={"/typeofelelction"} className="nav-link text-white ps-5 pe-5" >Type Of Election</Link>
-        </li> */}
-        {/* <li className="nav-item">
-          <Link to={"/candidates"} className="nav-link text-white ps-5 pe-5">Candidates</Link>
-        </li> */}
-        {/* <li className="nav-item">
-          <Link to={"/voting"} className="nav-link text-white ps-5 pe-5" >Voting </Link>
-        </li> */}
+       
         <li className="nav-item">
           <Link to={"/results"} className="nav-link text-white ps-5 pe-5" >Results</Link>
         </li>
       </ul>
       <ul className="d-flex list-unstyled mt-2">
         <li><button onClick={()=>navigate("./register")}>Register</button></li>
-        {/* <li><button onClick={()=>navigate("./login")}>Login</button></li> */}
+       
       </ul>
     </div>
   </div>

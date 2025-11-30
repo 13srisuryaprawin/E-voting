@@ -21,7 +21,7 @@ function Home() {
   
   return (
     <>
-      {/* Header Section */}
+      
       <div className="container text-center mt-5">
         <p className="display-3 fw-bold text-primary">
           <IoFingerPrint />
@@ -31,7 +31,7 @@ function Home() {
         </p>
       </div>
 
-      {/* Card Section */}
+      
       <div className="container mt-5 d-flex justify-content-center">
         <div
           className="card shadow-lg rounded-4 overflow-hidden"
@@ -53,7 +53,7 @@ function Home() {
       E-Vote
     </h5>
 
-    <p className="card-text lead mt-4">
+    <p className="card-text lead mt-4 text-light">
       eVote is an election system that enables voters to securely cast 
       their secret ballots electronically. With a clean and intuitive 
       interface, voters can complete their voting process in just a few
@@ -61,7 +61,7 @@ function Home() {
       complete non-traceability of the cast vote.
     </p>
 
-    <p className="card-text lead">
+    <p className="card-text lead text-light">
       eVote’s robust architecture consistently proves to be reliable, 
       user-friendly, and economical — delivering a Simple and Accessible 
       voting experience that increases voter engagement and turnout. 
@@ -75,7 +75,7 @@ function Home() {
           </div>
         </div>
       </div>
-      {/* How e-Voting Works Section */}
+     
 
 <div className="container mt-5 mb-5">
   <h2 className="text-center fw-bold mb-4">How e-Voting Works</h2>
@@ -84,7 +84,7 @@ function Home() {
     <div className="col-md-4" key={d.title}>
       <div className="card shadow-lg h-100 rounded-4 border-0 p-3 text-center">
         <h3 className="fw-bold text-primary">{d.title}</h3>
-        <p className="fs-5">
+        <p className="fs-5 text-light">
           {d.content}
         </p>
       </div>

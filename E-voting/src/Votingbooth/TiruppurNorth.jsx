@@ -16,7 +16,7 @@ function Avanashi() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const av = await axios.get("/public/charaters.json/heroes.json");
+        const av = await axios.get("/public/charaters/heroes.json");
         setAvanash(av.data);
       } catch (error) {
         console.error("Error loading villains:", error);

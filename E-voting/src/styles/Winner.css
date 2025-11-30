@@ -1,95 +1,107 @@
 
+
 .winner-card {
   width: 340px;
   padding: 32px 24px;
   border-radius: 24px;
 
-  background: rgba(255, 255, 255, 0.25);
-  backdrop-filter: blur(16px) saturate(160%);
-  -webkit-backdrop-filter: blur(16px) saturate(160%);
-  border: 1px solid rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.20);
+  backdrop-filter: blur(18px) saturate(180%);
+  -webkit-backdrop-filter: blur(18px) saturate(180%);
 
-  box-shadow: 
-    0 15px 35px rgba(0, 0, 0, 0.12),
-    0 8px 18px rgba(0, 0, 0, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+
+  box-shadow:
+    0 18px 40px rgba(0, 0, 0, 0.15),
+    0 8px 20px rgba(0, 0, 0, 0.08);
 
   text-align: center;
-  transition: all 0.45s ease;
-  transform: translateY(0);
-  animation: fadeCard 0.6s ease forwards;
+  transition: all 0.45s cubic-bezier(0.25, 1, 0.3, 1);
+
+  transform-style: preserve-3d;
+  animation: fadeCard 0.7s ease forwards;
 }
 
 .winner-card:hover {
-  transform: translateY(-10px) scale(1.03);
+  transform: translateY(-12px) scale(1.04) rotateX(4deg);
   box-shadow:
-    0 22px 45px rgba(0, 0, 0, 0.18),
-    0 10px 22px rgba(0, 0, 0, 0.08);
+    0 26px 55px rgba(0, 0, 0, 0.22),
+    0 12px 28px rgba(0, 0, 0, 0.10),
+    0 0 25px rgba(13, 110, 253, 0.35);
 }
-
 
 .winner-card img {
-  width: 135px;
-  height: 135px;
+  width: 140px;
+  height: 140px;
+
   object-fit: cover;
   border-radius: 50%;
+
   margin-bottom: 14px;
-
   padding: 6px;
-  background: linear-gradient(135deg, #4CAF50, #FFC107);
-  box-shadow: 0 6px 25px rgba(0,0,0,0.15);
 
-  animation: popIn 0.6s ease forwards;
+  background: linear-gradient(135deg, #0d6efd, #4CAF50);
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.15);
+
+  animation: popIn 0.7s ease forwards;
 }
 
-
 .winner-card h3 {
-  font-size: 1.9rem;
+  font-size: 2rem;
   font-weight: 700;
-  color: #222;
-  letter-spacing: 0.5px;
-  margin-top: 10px;
+  color: #1a1a1a;
+  letter-spacing: 0.6px;
+  margin-top: 12px;
 }
 
 .winner-card p {
   font-size: 1.15rem;
   color: #444;
-  margin-top: 4px;
+  margin-top: 6px;
 }
 
 
 .winner-card .badge {
-  margin-top: 12px;
-  font-size: 0.95rem;
-  padding: 8px 16px;
-  border-radius: 14px;
+  margin-top: 14px;
+  padding: 9px 18px;
 
- 
-  background: linear-gradient(135deg, #4CAF50, #2E7D32);
-  color: #fff;
+  font-size: 1rem;
   font-weight: 600;
 
-  letter-spacing: 0.5px;
+  border-radius: 16px;
   display: inline-block;
 
-  animation: badgePulse 2s ease-in-out infinite;
+  background: linear-gradient(135deg, #0d6efd, #4CAF50);
+  color: #fff;
+
+  letter-spacing: 0.5px;
+  animation: badgePulse 2.2s ease-in-out infinite;
 }
+
 
 
 @keyframes fadeCard {
-  from { opacity: 0; transform: translateY(30px); }
-  to { opacity: 1; transform: translateY(0); }
+  from {
+    opacity: 0;
+    transform: translateY(40px) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
 }
 
 @keyframes popIn {
-  0% { transform: scale(0.6); opacity: 0; }
+  0% { transform: scale(0.65); opacity: 0; }
   100% { transform: scale(1); opacity: 1; }
 }
 
 @keyframes badgePulse {
-  0% { transform: scale(1); opacity: 1; }
-  50% { transform: scale(1.09); opacity: 0.85; }
+  0%   { transform: scale(1); opacity: 1; }
+  50%  { transform: scale(1.10); opacity: 0.9; }
   100% { transform: scale(1); opacity: 1; }
 }
+
 
 @media (max-width: 600px) {
   .winner-card {
@@ -97,12 +109,12 @@
   }
 
   .winner-card h3 {
-    font-size: 1.6rem;
+    font-size: 1.7rem;
   }
 
   .winner-card img {
-    width: 115px;
-    height: 115px;
+    width: 120px;
+    height: 120px;
   }
 }
 
@@ -112,13 +124,15 @@
   padding: 20px;
 }
 
-
 .results-title {
   text-align: center;
-  font-size: 2.2rem;
-  font-weight: bold;
-  color: #1a73e8;
-  margin-bottom: 20px;
+  font-size: 2.3rem;
+  font-weight: 800;
+  color: #0d6efd;
+  margin-bottom: 22px;
+
+  letter-spacing: 1px;
+  animation: fadeCard 0.6s ease;
 }
 
 .winner-card {
@@ -126,26 +140,24 @@
   margin-bottom: 40px;
 }
 
-
 .chart-wrapper {
   width: 100%;
-  height: 350px;
+  height: 360px;
 }
-
 
 @media (max-width: 768px) {
   .results-title {
-    font-size: 1.8rem;
+    font-size: 1.9rem;
   }
 
   .chart-wrapper {
-    height: 300px;
+    height: 310px;
   }
 }
 
 @media (max-width: 480px) {
   .results-title {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
   }
 
   .chart-wrapper {

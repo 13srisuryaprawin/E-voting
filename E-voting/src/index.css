@@ -1,57 +1,135 @@
-.navbar{
-    font-family:Arial, Helvetica, sans-serif;
-}
-.navbar-toggler {
 
-  background-color: white !important;
-}
-.footer{
-  
-   font-family:Arial, Helvetica, sans-serif;
-}
-html body{
+html body {
   background-color: #010713;
   color: white;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  letter-spacing: 0.3px;
 }
-.btn-primary {
-  background-color: #2b6a62;
+
+
+.navbar {
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  backdrop-filter: blur(12px);
+  background: rgba(0, 0, 0, 0.35);
+  padding: 14px 24px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.navbar-toggler {
+  background-color: #ffffff !important;
+  border-radius: 10px;
   border: none;
-  border-radius: 14px;
-  padding: 12px 0;
-  font-size: 17px;
-  font-weight: 600;
-  color: white;
-  transition: 0.3s;
+  padding: 6px 10px;
+  transition: 0.3s ease;
 }
 
-.btn-primary:hover {
-  background-color: #42b3a4;
-  transform: translateY(-3px);
-  box-shadow: 0px 8px 20px rgba(66, 179, 164, 0.4);
-}
-
-.btn-primary:active {
-  transform: scale(0.97);
+.navbar-toggler:hover {
+  transform: scale(1.07);
+  box-shadow: 0 0 12px rgba(255, 255, 255, 0.25);
 }
 
 .navbar ul li button {
-  background: #2b6a62;      
+  background: linear-gradient(135deg, #2b6a62, #1f534e);
   color: white;
   border: none;
-  padding: 8px 18px;
-  margin-left: 10px;
-  border-radius: 8px;
+  padding: 9px 20px;
+  margin-left: 12px;
+  border-radius: 10px;
   font-size: 15px;
   font-weight: 600;
   cursor: pointer;
   transition: 0.25s ease;
+  box-shadow: 0 3px 12px rgba(43, 106, 98, 0.3);
 }
 
 .navbar ul li button:hover {
-  background: #42b3a4;
+  background: linear-gradient(135deg, #42b3a4, #2b8f84);
   transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(66, 179, 164, 0.35);
 }
 
 .navbar ul li button:active {
-  transform: scale(0.95);
+  transform: scale(0.93);
+}
+
+
+.btn-primary {
+  background: linear-gradient(135deg, #2b6a62, #17413c);
+  border: none;
+  border-radius: 14px;
+  padding: 14px 18px;
+  font-size: 17px;
+  font-weight: 600;
+  color: white;
+  transition: 0.3s;
+  box-shadow: 0 4px 16px rgba(43, 106, 98, 0.35);
+}
+
+.btn-primary:hover {
+  background: linear-gradient(135deg, #42b3a4, #2a9589);
+  transform: translateY(-4px);
+  box-shadow: 0px 10px 25px rgba(66, 179, 164, 0.45);
+}
+
+.btn-primary:active {
+  transform: scale(0.96);
+}
+
+
+.footer {
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  padding: 40px 0;
+  margin-top: 40px;
+  background: #00060f;
+  border-top: 1px solid rgba(255, 255, 255, 0.07);
+  text-align: center;
+  color: #c7d4db;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+}
+
+.navbar {
+  transition: 0.35s ease;
+}
+
+.navbar:hover {
+  background: rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(18px);
+  box-shadow: 0 4px 18px rgba(66, 179, 164, 0.28);
+}
+
+/* NAV LINKS */
+.navbar ul li a {
+  position: relative;
+  color: #ffffff;
+  padding: 6px 10px;
+  transition: 0.3s ease;
+}
+
+.navbar ul li a:hover {
+  color: #42b3a4;
+  transform: translateY(-2px);
+}
+
+
+.navbar ul li a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 0;
+  height: 2px;
+  background: #42b3a4;
+  transition: width 0.3s ease;
+  border-radius: 4px;
+}
+
+.navbar ul li a:hover::after {
+  width: 100%;
+}
+
+
+.navbar ul li button:hover {
+  box-shadow: 0 0 12px rgba(66, 179, 164, 0.55),
+              0 4px 18px rgba(66, 179, 164, 0.35);
 }

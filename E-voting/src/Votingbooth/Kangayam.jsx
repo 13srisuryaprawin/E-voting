@@ -16,7 +16,7 @@ function Avanashi() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const av = await axios.get("/public/charaters.json/strong.json");
+        const av = await axios.get("/public/charaters/strong.json");
         setAvanash(av.data);
       } catch (err) {
         console.error("Error loading character data:", err);

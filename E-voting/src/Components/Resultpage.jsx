@@ -18,7 +18,7 @@ function ElectionResult() {
   const [characters, setCharacters] = useState([]);
 
   useEffect(() => {
-    axios.get("/public/charaters.json/strong.json").then((res) => {
+    axios.get("/public/charaters/strong.json").then((res) => {
       setCharacters(res.data);
     });
 
@@ -61,7 +61,7 @@ function ElectionResult() {
         <div className="winner-card">
           <img src={winnerImage?.character_image} alt={winner.name} />
           <h3>{winner.name}</h3>
-          <p>Total Votes: {winner.votes}</p>
+          <p className="text-light">Total Votes: {winner.votes}</p>
           <span className="badge">🏆 Winner</span>
         </div>
       )}
